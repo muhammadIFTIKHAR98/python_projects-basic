@@ -1,7 +1,7 @@
 import random
 import time
 
-OPERATORS = ["+", "-", "*"]
+OPERATORS = ["+", "-", "*"]  #division is not used here for division new code will be formed separartely
 MIN_OPERAND = 3
 MAX_OPERAND = 12
 TOTAL_PROBLEMS = 3
