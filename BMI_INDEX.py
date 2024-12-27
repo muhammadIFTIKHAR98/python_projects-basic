@@ -1,3 +1,8 @@
+#This is the code for calculating the Body Mass Index (BMI).
+#It requires two inputs- height and weight.
+#It also provides the current condition of your body as per your BMI.
+
+
 height = float(input("Enter your height in cm: "))
 weight = float(input("Enter your weight in kg: "))
 
