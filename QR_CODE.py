@@ -1,7 +1,8 @@
-#firstly, install the qrcode then import
+#INSTALL THE QRCODE LIBRARY
 
 import qrcode
 
+#I DON'T GET THIS HOW DID I WRITE THIS WITHOUT ANY EXPLANATION
 qr = qrcode.QRCode(version=1,
                    error_correction=qrcode.constants.ERROR_CORRECT_L,
                    box_size=20,
