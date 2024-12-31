@@ -1,3 +1,5 @@
+#This is the code for creating the alarm clock 
+
 from datetime import datetime   
 from playsound import playsound
 alarm_time = input("Enter the time of alarm to be set:HH:MM:SS\n")
