@@ -1,9 +1,11 @@
+#this code will solve the sudoko 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 from random import randint, shuffle
 
 
+#we need to create the functions
 def print_board(board):
     """
     Prints the sudoku board.
